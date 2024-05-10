@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+  
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+
+  <title>Ryan Lillis's Website</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+
+<style>
+
+
+  
+.square{
+  height: 15%;
+  width: 50%;
+  background-color:#173954;
+  padding-top:3%;
+  padding-left:3%;
+  padding-right:3%;
+  padding-bottom:3%;
+  font-size: 200%;
+  margin-left: 5%;
+  margin-top:5%;
+  color:orange;
+
+}
+.Title{
+  padding-top: 5px;
+  background-color: #1C486A;  
+  padding-left: 0px;
+  padding-bottom: 0px;
+  color: orange;
+  font-size: 20px;
+  letter-spacing: 1000%;
+  font-family: sans-serif;
+}
+
+#intro {
+    font-size: 40px;
+    font-family:Calibri;
+    background-color: #173954;
+    color: orange;
+    padding-left:50px;
+    margin: 0;
+    line-height: 1;
+    text-align: left;
+  }
+
+body{
+  background-color:#1C486A;
+  
+  text-align:center;
+}
+</style>
+</head>
+
+
+
+  
+<body>
+
+<div class="Title">
+  <h1>Ryan Lillis's  Website</h1>
+</div>
+
+<hr style="color:black;">
+<p id="intro">Introduction</p>
+  
+
+<div class="square">On this webpage, I will be designing a site in HTML.</div>
+
+  
+</body>
+
+
+
+  
+</html>
